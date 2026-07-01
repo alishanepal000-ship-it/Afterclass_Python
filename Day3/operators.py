@@ -86,7 +86,7 @@ print(5 not in nums) #true
 # in with dicts -checks keys not values
 info = {"name": "Alisha", "Age": 20}
 print("name" in info) #true
-print("Alisha" in info) #false kina ki sanjina key haina
+print("Alisha" in info) #false kina ki Alisha key haina
 print("Alisha" in info.values()) #tue kina ki info.values le value check garxa
 
 # is le memory ko kun thauma object save bhako xa check garxa
