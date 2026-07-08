@@ -1,0 +1,12 @@
+repeating code 
+easy and famous method = for loop
+
+range function is used = range()
+
+
+range(start, stop, step)
+
+enumerate is funciton in loop = enumerate(index, item) : it adds index or serial number
+
+Nested Loops: A loop inside a loop
+
